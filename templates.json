@@ -391,11 +391,11 @@
       {
         "name": "WORDPRESS_DB_PASSWORD",
         "label": "Database password"
-      }
+      },
             {
         "name": "VIRTUAL_HOST",
         "label": "Domain name"
-      },
+      }
     ],
     "ports": [
       "80/tcp"
