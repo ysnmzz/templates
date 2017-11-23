@@ -395,7 +395,7 @@
             {
         "name": "VIRTUAL_HOST",
         "label": "Domain name"
-      }
+      },
     ],
     "ports": [
       "80/tcp"
